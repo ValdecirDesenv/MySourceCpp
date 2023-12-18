@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "mylibs",
+					"jsonFile" : "directory-mylibs-Debug-4ef31729adabd819a698.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "mylibs",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "mysourcecpp",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "mathsLab::@6368b7f9a734de2b1a6f",
+					"jsonFile" : "target-mathsLab-Debug-3ed79e4544da590a78b2.json",
+					"name" : "mathsLab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mysourcecpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mysourcecpp-Debug-8f0a3c0b17bd8a8262c8.json",
+					"name" : "mysourcecpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vdc/dev/cpluplus/MySourceCpp/build",
+		"source" : "/home/vdc/dev/cpluplus/MySourceCpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

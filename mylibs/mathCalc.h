@@ -1,0 +1,2 @@
+
+float taxReturn(float salary);

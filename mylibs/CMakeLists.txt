@@ -1,0 +1,1 @@
+add_library(mathsLab mathCalc.cpp mathCalc.h)

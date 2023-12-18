@@ -1,8 +1,9 @@
 #include <iostream>
- 
-int main()
-{
-std::cout << "Hello World! Welcome to your first C++ program!" << std::endl;
+#include <mathCalc.h>
 
-return 0;
+using namespace std;
+int main(int, char**){
+    cout << "value: " << taxReturn(1200.5);
+    std::cout << "\n Hello, from codeStructure! \n";
+    return 0;
 }
