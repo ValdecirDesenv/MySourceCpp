@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/mysourcecpp.dir/main.cpp.o -o mysourcecpp   -L/home/vdc/dev/cpluplus/MySourceCpp/mylibs  -Wl,-rpath,/home/vdc/dev/cpluplus/MySourceCpp/mylibs mylibs/libmathsLab.a 

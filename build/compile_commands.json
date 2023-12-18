@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/vdc/dev/cpluplus/MySourceCpp/build",
+  "command": "/usr/bin/g++ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -I/home/vdc/dev/cpluplus/MySourceCpp/mylibs -g -o CMakeFiles/mysourcecpp.dir/main.cpp.o -c /home/vdc/dev/cpluplus/MySourceCpp/main.cpp",
+  "file": "/home/vdc/dev/cpluplus/MySourceCpp/main.cpp"
+},
+{
+  "directory": "/home/vdc/dev/cpluplus/MySourceCpp/build/mylibs",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/mathsLab.dir/mathCalc.cpp.o -c /home/vdc/dev/cpluplus/MySourceCpp/mylibs/mathCalc.cpp",
+  "file": "/home/vdc/dev/cpluplus/MySourceCpp/mylibs/mathCalc.cpp"
+}
+]

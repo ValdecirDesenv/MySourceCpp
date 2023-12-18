@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmathsLab.a CMakeFiles/mathsLab.dir/mathCalc.cpp.o
+/usr/bin/ranlib libmathsLab.a

@@ -1,0 +1,6 @@
+/home/vdc/dev/cpluplus/MySourceCpp/build/CMakeFiles/mysourcecpp.dir
+/home/vdc/dev/cpluplus/MySourceCpp/build/CMakeFiles/edit_cache.dir
+/home/vdc/dev/cpluplus/MySourceCpp/build/CMakeFiles/rebuild_cache.dir
+/home/vdc/dev/cpluplus/MySourceCpp/build/mylibs/CMakeFiles/mathsLab.dir
+/home/vdc/dev/cpluplus/MySourceCpp/build/mylibs/CMakeFiles/edit_cache.dir
+/home/vdc/dev/cpluplus/MySourceCpp/build/mylibs/CMakeFiles/rebuild_cache.dir
